@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beeranna Dude</h1>
-<h3 align="center">A passionate to work on Devops</h3>
+<h3 align="center">Passionate to work on Devops</h3>
 
 - 🔭 I’m currently working as **Developer**
 
